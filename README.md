@@ -20,7 +20,7 @@
 
 ### ℹ️ GitHub Stats
 
-[![Elder Moraes' github stats](https://github-readme-stats.vercel.app/api?username=meganitrospeed)]
+![Meganitrospeed's github stats](https://github-readme-stats.vercel.app/api?username=meganitrospeed)
 
 ---
 
